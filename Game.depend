@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\rocio\onedrive\escritorio\pacman\pila.c
+	"pila.h"
+
+1490112217 c:\users\rocio\onedrive\escritorio\pacman\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1686885412 source:c:\users\rocio\onedrive\escritorio\pacman\main.c
+	"raylib.h"
+	<math.h>
+	<string.h>
+	"pila.h"
+
+1686937643 source:c:\users\rocio\onedrive\escritorio\pacman(trabajar_aquí)\main.c
+	"raylib.h"
+	<math.h>
+	<string.h>
+	"pila.h"
+
+1490112217 c:\users\rocio\onedrive\escritorio\pacman(trabajar_aquí)\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\rocio\onedrive\escritorio\pacman(trabajar_aquí)\pila.c
+	"pila.h"
+
+1490112217 source:c:\users\rocio\onedrive\escritorio\proyecto\pacman refactorizado\pila.c
+	"pila.h"
+
+1490112217 c:\users\rocio\onedrive\escritorio\proyecto\pacman refactorizado\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687040280 source:c:\users\rocio\onedrive\escritorio\proyecto\pacman refactorizado\main.c
+	"raylib.h"
+	<math.h>
+	<string.h>
+	"pila.h"
+
+1490112217 source:c:\users\rocio\onedrive\escritorio\proyecto\pacman\pila.c
+	"pila.h"
+
+1490112217 c:\users\rocio\onedrive\escritorio\proyecto\pacman\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687536676 source:c:\users\rocio\onedrive\escritorio\proyecto\pacman\main.c
+	"raylib.h"
+	<math.h>
+	<string.h>
+	"pila.h"
+
