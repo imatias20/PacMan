@@ -3,6 +3,8 @@
 #include <string.h>
 #include "pila.h"
 
+///HOLA , GIT
+
 //DEFINICIONES
 #define TILESIZE 32  //lucreciadenisebazan@gmail.com
 #define MAXFRUTITAS 400
